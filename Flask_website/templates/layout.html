@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Flask App</title>
+      <link rel="stylesheet" href="{{url_for('static',filename='css/main.css')}}">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="logo">Ginni & Jatin's web app</h1>
+        <strong><nav>
+          <ul class="menu">
+            <!--url_for is an inbuilt function in jinja template which will call home and home2 functions-->
+            <li><a href="{{ url_for('home') }}">Home</a></li>
+            <li><a href="{{ url_for('home2') }}">About</a></li>
+          </ul>
+        </nav></strong>
+      </div>
+    </header>
+    <div class="container">
+      <!--Starting the block and naming it (as content (which will be filled as defined in child template) and then ending the block-->
+        {%block content%}
+        {%endblock%}
+    </div>
+  </body>
+</html>

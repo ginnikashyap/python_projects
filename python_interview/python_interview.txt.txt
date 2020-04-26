@@ -1,0 +1,3 @@
+Pickling
+
+https://stackoverflow.com/questions/7501947/understanding-pickling-in-python/7502003

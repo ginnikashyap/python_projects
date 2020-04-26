@@ -1,0 +1,15 @@
+hlpi_name,series_ref,quarter,hlpi,nzhec,nzhec_name,nzhec_short,level,index,change.q,change.a
+All households,HPIQ.SALL01,2008Q2,allhh,1,Food,Food,group,870,NA,NA
+Beneficiary,HPIQ.SBEN01,2008Q2,benef,1,Food,Food,group,869,NA,NA
+Income quintile 1 (low),HPIQ.SIQ101,2008Q2,disq1,1,Food,Food,group,869,NA,NA
+Income quintile 2,HPIQ.SIQ201,2008Q2,disq2,1,Food,Food,group,869,NA,NA
+Income quintile 3,HPIQ.SIQ301,2008Q2,disq3,1,Food,Food,group,872,NA,NA
+Income quintile 4,HPIQ.SIQ401,2008Q2,disq4,1,Food,Food,group,870,NA,NA
+Income quintile 5 (high),HPIQ.SIQ501,2008Q2,disq5,1,Food,Food,group,871,NA,NA
+Expenditure quintile 1 (low),HPIQ.SEQ101,2008Q2,expq1,1,Food,Food,group,868,NA,NA
+Expenditure quintile 2,HPIQ.SEQ201,2008Q2,expq2,1,Food,Food,group,870,NA,NA
+Expenditure quintile 3,HPIQ.SEQ301,2008Q2,expq3,1,Food,Food,group,868,NA,NA
+Expenditure quintile 4,HPIQ.SEQ401,2008Q2,expq4,1,Food,Food,group,871,NA,NA
+Expenditure quintile 5 (high),HPIQ.SEQ501,2008Q2,expq5,1,Food,Food,group,872,NA,NA
+Maori,HPIQ.SMAO01,2008Q2,maori,1,Food,Food,group,870,NA,NA
+Superannuitant,HPIQ.SSUP01,2008Q2,super,1,Food,Food,group,867,NA,NA

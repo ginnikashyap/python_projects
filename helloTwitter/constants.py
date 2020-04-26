@@ -1,0 +1,5 @@
+c_key = 'rMxIcpOeLGKu7awZR1jyB7tCq'
+c_secret = 'pbvrIsOONL71fgkKovEqhFZLiNSmGEbXmWL9Jj08svup4jNNIV'
+request_token_url = 'https://api.twitter.com/oauth/request_token'
+access_token_url = 'https://api.twitter.com/oauth/access_token'
+authorozation_url = 'https://api.twitter.com/oauth/authorize'

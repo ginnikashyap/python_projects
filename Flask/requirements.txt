@@ -1,0 +1,3 @@
+tells python virtual env that these libraries will be needed like below
+
+flask==1.1.1

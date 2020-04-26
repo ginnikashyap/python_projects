@@ -1,0 +1,19 @@
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<body>-->
+<!--No need to html etc tags here,since Child Template-->
+
+{%extends "layout.html"%}
+<!--Same as defined in parent template-->
+{%block content%}
+<link rel="stylesheet" href={{cdn.css | safe}}>
+<script type="text/javascript" src={{}}cdn.js | safe></script>
+<div class="home">
+    <h1>My homepage</h1>
+    <p>This is a home page of test website again</p>
+</div>
+{{script1} | safe}}
+{{div1} | safe}}
+{%endblock%}
+  <!--</body>-->
+<!--</html>-->
